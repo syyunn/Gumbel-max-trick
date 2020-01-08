@@ -3,7 +3,6 @@
 ## Statement
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{Assume that}\ \alpha_1, \alpha_2 ... \alpha_k\ \text{satisfy}\ \sum_k{\alpha_k} = 1.\ \text{Define}">
-<br>
 <img src="https://render.githubusercontent.com/render/math?math=Z = \arg\max_k\{{\log{\alpha_k}+G_k}\}">
 
 
