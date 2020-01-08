@@ -10,3 +10,5 @@ f(x) = e^{-(x+e^{-x})}\\
 F(x) = e^{-e^{-x}}
 .\ \text{Then}\ \Bbb{P}(Z=k)=\alpha_k
 $$
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/0.1/MathJax.js?config=TeX-MML-AM_CHTML'></script>
