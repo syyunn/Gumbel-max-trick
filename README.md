@@ -10,11 +10,4 @@
 <img src="https://render.githubusercontent.com/render/math?math=\text{.\ Then}\ \Bbb{P}(Z=k)=\alpha_k">
 
 
-<!-- $$
-\text{Assume that}\ \alpha_1, \alpha_2 ... \alpha_k\ \text{satisfy}\ \sum_k{\alpha_k} = 1.\ \text{Define}\\
-Z = \arg\max_k\{{\log{\alpha_k}+G_k}\}\\
-\text{where}\ G_1, ..., G_n\ \text{i.i.d.}\ \sim\ Gumbel(0,1),\ \text{whose PDF and CDF are defined as}\\
-f(x) = e^{-(xe^{-x})}\\
-F(x) = e^{-e^{-x}}
-.\ \text{Then}\ \Bbb{P}(Z=k)=\alpha_k
-$$ -->
+the expression refers to [here](https://www.hsfzxjy.site/2019-08-01-proof-of-gumbel-max-trick/)
