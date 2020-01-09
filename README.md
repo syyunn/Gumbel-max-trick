@@ -10,4 +10,4 @@
 </p>
 <img src="https://render.githubusercontent.com/render/math?math=\text{.\ Then}\ \Bbb{P}(Z=k)=\alpha_k">
 
-###### the statement refers to [here](https://www.hsfzxjy.site/2019-08-01-proof-of-gumbel-max-trick/)
+###### above statement refers to [here](https://www.hsfzxjy.site/2019-08-01-proof-of-gumbel-max-trick/)
